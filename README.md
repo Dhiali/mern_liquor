@@ -1,6 +1,6 @@
 <img src="creative-auth-bartender/client/src/assets/WDrunk Logo@300x.png" alt="WDrunk Logo" width="200" height="400" align="center">
 
-# 🦒 The Drunken Giraffe 
+# The Drunken Giraffe 
 
 A comprehensive MERN stack e-commerce platform that revolutionizes user authentication through an innovative bottle-sorting game while delivering a complete online liquor store experience. This full-stack application combines traditional e-commerce functionality with creative gamified authentication, featuring product management, shopping cart capabilities, user reviews and accessibility-first design principles.
 
