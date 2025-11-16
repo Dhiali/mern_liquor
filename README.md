@@ -1,6 +1,6 @@
-# 🛡️ Creative Authentication System – Spirited Sign-In
+# 🦒 The Drunken Giraffe
 
-A full-stack MERN web app featuring a playful, game-based authentication method called **Spirited Sign-In**, where users sort virtual bottles correctly to gain access. For accessibility, users can also log in through a traditional form-based fallback.
+A comprehensive MERN stack e-commerce platform that revolutionizes user authentication through an innovative bottle-sorting game while delivering a complete online liquor store experience. This full-stack application combines traditional e-commerce functionality with creative gamified authentication, featuring product management, shopping cart capabilities, user reviews and accessibility-first design principles.
 
 ---
 
