@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="creative-auth-bartender/client/src/assets/WDrunk Logo@300x.png" alt="WDrunk Logo" width="200" height="400">
-</div>
 
 
 # 🦒 The Drunken Giraffe
