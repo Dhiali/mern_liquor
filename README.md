@@ -209,7 +209,7 @@ This interface allows you to test endpoints like login, register, and game resul
 ## 🎨 Design & Development Process
 
 <div align="center">
-  <a href="[https://www.figma.com/design/ci8mZkMzTyDLMHN3hTGq6v/DV-200-Bug-Squashers?node-id=4-61&p=f&t=yTvEqzKWvGSTAmvF-0]" target="_blank">
+  <a href="https://www.figma.com/design/ci8mZkMzTyDLMHN3hTGq6v/DV-200-Bug-Squashers?node-id=4-61&p=f&t=yTvEqzKWvGSTAmvF-0" target="_blank">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="View Design Process">
   </a>
 </div>
