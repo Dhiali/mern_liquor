@@ -49,33 +49,6 @@ A comprehensive MERN stack e-commerce **web application** that revolutionizes us
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 ---
-
-## ✨ Features
-
-- 🎮 Game-based login challenge (Spirited Sign-In)
-- 🧑‍🦽 Accessible fallback login form
-- 🔐 JWT token-based authentication
-- 🔑 Password hashing using `bcryptjs`
-- 🗃️ MongoDB integration
-- 📄 REST API with Swagger documentation
-- 📦 Fully modular and scalable codebase
-
----
-
-## 🧪 Creative Authentication Explained
-
-### 🥃 Spirited Sign-In
-
-During login, users sort a series of drink bottles correctly in a game interface. Success grants access; failure shows a retry screen.
-
-- **Why it’s creative:**  
-  It uses **spatial memory, visual cues**, and **pattern matching** instead of traditional typing. It gamifies identity verification without compromising security.
-
-- **Fallback option:**  
-  A basic accessible login form is available at `/accessibility-login`.
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
@@ -133,6 +106,18 @@ Once the backend server is running, visit:
 [http://localhost:5000/apiDocumentation](http://localhost:5000/apiDocumentation)
 
 This interface allows you to test endpoints like login, register, and game results directly from the browser.
+
+---
+
+## ✨ Features
+
+- 🎮 Game-based login challenge (Spirited Sign-In)
+- 🧑‍🦽 Accessible fallback login form
+- 🔐 JWT token-based authentication
+- 🔑 Password hashing using `bcryptjs`
+- 🗃️ MongoDB integration
+- 📄 REST API with Swagger documentation
+- 📦 Fully modular and scalable codebase
 
 ---
 
