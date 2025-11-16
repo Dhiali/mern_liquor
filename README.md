@@ -209,7 +209,7 @@ This interface allows you to test endpoints like login, register, and game resul
 ## 🎨 Design & Development Process
 
 <div align="center">
-  <a href="[YOUR_FIGMA_LINK_HERE]" target="_blank">
+  <a href="[https://www.figma.com/design/ci8mZkMzTyDLMHN3hTGq6v/DV-200-Bug-Squashers?node-id=4-61&p=f&t=yTvEqzKWvGSTAmvF-0]" target="_blank">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="View Design Process">
   </a>
 </div>
@@ -217,8 +217,6 @@ This interface allows you to test endpoints like login, register, and game resul
 **📋 View our complete design and planning process including:**
 - 🎨 **Wireframes & Mockups** - Initial layout designs and user interface planning
 - 🌈 **Moodboards** - Visual inspiration and brand identity development  
-- 🗺️ **User Journey Maps** - Authentication flow and user experience mapping
-- 📊 **Database Schema Planning** - Data structure and relationship design
 - 🎯 **Feature Planning** - Sprint planning and development roadmap
 - 🔄 **Iteration Process** - Design evolution and feedback implementation
 
