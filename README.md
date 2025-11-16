@@ -26,10 +26,13 @@ A comprehensive MERN stack e-commerce **web application** that revolutionizes us
 - [License](#license)
 
 ---
+## 🛠️ Tech Stack
 
-## 🧠 Project Overview
-
-This MERN stack project explores a creative twist on standard login forms. Users interact with a **mini bartender game** to prove identity, providing an intuitive and fun authentication experience. The app also supports an accessibility login for inclusivity.
+- **Frontend:** React, TailwindCSS  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB, Mongoose  
+- **Auth:** JWT, bcrypt  
+- **Docs:** Swagger (via `swagger-jsdoc` and `swagger-ui-express`)
 
 ---
 
@@ -56,16 +59,6 @@ During login, users sort a series of drink bottles correctly in a game interface
 
 - **Fallback option:**  
   A basic accessible login form is available at `/accessibility-login`.
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend:** React, TailwindCSS  
-- **Backend:** Node.js, Express  
-- **Database:** MongoDB, Mongoose  
-- **Auth:** JWT, bcrypt  
-- **Docs:** Swagger (via `swagger-jsdoc` and `swagger-ui-express`)
 
 ---
 
