@@ -11,7 +11,6 @@ A comprehensive MERN stack e-commerce **web application** that revolutionizes us
 <div align="center">
   <img src="creative-auth-bartender/client/src/assets/drunken mock up.png" alt="Mock up" >
 </div>
----
 
 ## 📌 Table of Contents
 
