@@ -8,12 +8,14 @@
 A comprehensive MERN stack e-commerce **web application** that revolutionizes user authentication through an innovative bottle-sorting game while delivering a complete online liquor store experience. This full-stack web platform combines traditional e-commerce functionality with creative gamified authentication, featuring product management, shopping cart capabilities, user reviews and accessibility-first design principles.
 
 **Authors:** Angie Van Rooyen | Dhiali Chetty | Xander Poalses
+
 <div align="center">
   <img src="creative-auth-bartender/client/src/assets/drunken mock up.png" alt="Mock up" >
 </div>
 
 ## 📌 Table of Contents
 
+- [Design & Development Process](#design--development-process)
 - [Project Overview](#project-overview)  
 - [Features](#features)  
 - [Tech Stack](#tech-stack)  
@@ -201,6 +203,26 @@ This interface allows you to test endpoints like login, register, and game resul
 - **📐 Accessibility Standards** - WCAG compliant design with screen reader support
 - **🔗 Social Integration** - Share favorite products and achievements
 - **📱 Progressive Web App** - App-like experience with offline capabilities
+
+---
+
+## 🎨 Design & Development Process
+
+<div align="center">
+  <a href="[YOUR_FIGMA_LINK_HERE]" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="View Design Process">
+  </a>
+</div>
+
+**📋 View our complete design and planning process including:**
+- 🎨 **Wireframes & Mockups** - Initial layout designs and user interface planning
+- 🌈 **Moodboards** - Visual inspiration and brand identity development  
+- 🗺️ **User Journey Maps** - Authentication flow and user experience mapping
+- 📊 **Database Schema Planning** - Data structure and relationship design
+- 🎯 **Feature Planning** - Sprint planning and development roadmap
+- 🔄 **Iteration Process** - Design evolution and feedback implementation
+
+*Click the Figma badge above to explore our full design documentation and development process.*
 
 ---
 
