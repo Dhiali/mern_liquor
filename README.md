@@ -157,15 +157,50 @@ This interface allows you to test endpoints like login, register, and game resul
 
 ---
 
-## ✨ Features
+## ✨ Project Features
 
-- 🎮 Game-based login challenge (Spirited Sign-In)
-- 🧑‍🦽 Accessible fallback login form
-- 🔐 JWT token-based authentication
-- 🔑 Password hashing using `bcryptjs`
-- 🗃️ MongoDB integration
-- 📄 REST API with Swagger documentation
-- 📦 Fully modular and scalable codebase
+### 🎯 Main Features & Functionality
+
+#### 🔐 Authentication System
+- **🎮 Gamified Login (Spirited Sign-In)** - Interactive bottle-sorting game where users drag and drop virtual liquor bottles into correct categories to authenticate
+- **♿ Accessibility Login** - Traditional form-based login fallback ensuring inclusive access for all users
+- **🔑 Secure Registration** - User account creation with email verification and password validation
+- **🛡️ JWT Authentication** - Token-based authentication system with automatic session management
+- **🔒 Password Security** - bcrypt hashing for secure password storage and validation
+
+#### 🛒 E-Commerce Platform
+- **📦 Product Management** - Complete CRUD operations for liquor inventory management
+- **🛍️ Shopping Cart** - Add, remove, and modify product quantities with persistent cart state
+- **💳 Checkout Process** - Streamlined purchasing workflow with order confirmation
+- **⭐ Product Reviews** - User rating system (0-5 stars) with written reviews and comments
+- **❤️ Product Interactions** - Like/unlike functionality and social engagement features
+
+#### 👥 User Management
+- **🏷️ Role-Based Access** - Admin and customer roles with appropriate permissions
+- **👤 User Profiles** - Customizable profiles with profile picture uploads
+- **📊 Admin Dashboard** - Product approval workflow and user management tools
+- **📈 User Analytics** - Track user engagement and purchase history
+
+#### 🔍 Advanced Features
+- **🎯 Smart Filtering** - Filter products by category, price, rating, and availability
+- **🔎 Search Functionality** - Real-time product search with auto-suggestions
+- **📱 Responsive Design** - Mobile-first design optimized for all device types
+- **🎨 Custom UI Components** - Drag-and-drop interface with smooth animations
+- **📊 Progress Tracking** - Visual feedback for game completion and purchase flows
+
+#### 🛠️ Technical Features
+- **📋 REST API** - Comprehensive RESTful API architecture with full CRUD operations
+- **📚 API Documentation** - Interactive Swagger documentation for all endpoints
+- **🗄️ Database Integration** - MongoDB with Mongoose ODM for efficient data management
+- **🔄 Real-time Updates** - Dynamic content updates without page refreshes
+- **⚡ Performance Optimization** - Efficient data loading and caching strategies
+
+### 🌟 Additional Innovative Features
+- **🎪 Creative UX Design** - Unique authentication experience that stands out from traditional login systems
+- **🎵 Interactive Feedback** - Visual and audio cues during the bottle-sorting game
+- **📐 Accessibility Standards** - WCAG compliant design with screen reader support
+- **🔗 Social Integration** - Share favorite products and achievements
+- **📱 Progressive Web App** - App-like experience with offline capabilities
 
 ---
 
