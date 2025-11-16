@@ -51,50 +51,98 @@ A comprehensive MERN stack e-commerce **web application** that revolutionizes us
 ---
 ## 🚀 Getting Started
 
-### 1. Clone the repository
+### Prerequisites
+
+Before running this project, ensure you have the following installed on your system:
+
+**Required Software:**
+- **Node.js** (v16.0 or higher) - [Download here](https://nodejs.org/)
+- **npm** (v8.0 or higher) - Comes with Node.js
+- **Git** - [Download here](https://git-scm.com/)
+- **MongoDB Atlas Account** - [Create free account](https://www.mongodb.com/atlas)
+- **Code Editor** (VS Code recommended) - [Download here](https://code.visualstudio.com/)
+
+**API Keys & Accounts:**
+- MongoDB Atlas connection string (free tier available)
+- JWT Secret key (you'll create this)
+
+**Minimum System Requirements:**
+- RAM: 4GB minimum, 8GB recommended
+- Storage: 500MB free space
+- Operating System: Windows 10+, macOS 10.14+, or Linux
+
+### How to Install
+
+Follow these steps to get the project running locally:
+
+#### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AngievR05/mern_liquor.git
+git clone https://github.com/Dhiali/mern_liquor.git
 cd mern_liquor/creative-auth-bartender
 ```
 
-### 2. Install dependencies
+#### 2. Backend Setup
 
 ```bash
-# Install backend dependencies
+# Navigate to server directory
 cd server
+
+# Install backend dependencies
 npm install
+
+# Create environment file
+# Create a .env file in the server directory with the following:
+```
+
+Create a `.env` file in the `server` directory:
+
+```env
+PORT=5000
+MONGO_URI=mongodb+srv://your_username:your_password@cluster.mongodb.net/drunken_giraffe
+JWT_SECRET=your_super_secret_jwt_key_here
+NODE_ENV=development
+```
+
+**MongoDB Setup:**
+1. Go to [MongoDB Atlas](https://www.mongodb.com/atlas)
+2. Create a free account and new cluster
+3. Get your connection string from "Connect" → "Connect your application"
+4. Replace `your_username`, `your_password`, and cluster details in the MONGO_URI
+
+#### 3. Frontend Setup
+
+Open a new terminal window:
+
+```bash
+# Navigate to client directory (from project root)
+cd creative-auth-bartender/client
 
 # Install frontend dependencies
-cd ../client
 npm install
 ```
 
-### 3. Setup your environment variables
+#### 4. Start Development Servers
 
-Create a `.env` file in the `server` directory and add the following:
-
-```
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_super_secret_jwt_key
-```
-
-Make sure to add `.env` to your `.gitignore` file so that sensitive information is not committed to GitHub.
-
----
-
-### 4. Start the development servers
-
+**Backend Server (Terminal 1):**
 ```bash
-# Start backend server
 cd server
 npm run dev
+```
+The backend will run on `http://localhost:5000`
 
-# Start frontend server
-cd ../client
+**Frontend Server (Terminal 2):**
+```bash
+cd client
 npm start
 ```
+The frontend will run on `http://localhost:3000`
+
+#### 5. Verify Installation
+
+- Backend: Visit `http://localhost:5000/apiDocumentation` for Swagger API docs
+- Frontend: Visit `http://localhost:3000` to see the application
+- Test the connection by registering a new user
 
 ---
 
