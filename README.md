@@ -15,17 +15,42 @@ A comprehensive MERN stack e-commerce **web application** that revolutionizes us
 
 ## 📌 Table of Contents
 
-- [Design & Development Process](#design--development-process)
-- [Project Overview](#project-overview)  
-- [Features](#features)  
-- [Tech Stack](#tech-stack)  
-- [Creative Authentication Explained](#creative-authentication-explained)  
-- [Getting Started](#getting-started)  
-- [API Documentation](#api-documentation)  
-- [Folder Structure](#folder-structure)  
-- [Demo](#demo)  
-- [Contributing](#contributing)  
-- [License](#license)
+<details>
+<summary>Click to expand sections</summary>
+
+- [🎨 Design & Development Process](#-design--development-process)
+- [🛠️ Built With](#️-built-with)
+  - [Frontend](#frontend)
+  - [Backend](#backend)
+  - [Tools & Libraries](#tools--libraries)
+- [🚀 Getting Started](#-getting-started)
+  - [Prerequisites](#prerequisites)
+  - [How to Install](#how-to-install)
+  - [Backend Setup](#2-backend-setup)
+  - [Frontend Setup](#3-frontend-setup)
+  - [Start Development Servers](#4-start-development-servers)
+- [🧾 API Documentation](#-api-documentation)
+- [✨ Project Features](#-project-features)
+  - [Main Features & Functionality](#-main-features--functionality)
+  - [Authentication System](#-authentication-system)
+  - [E-Commerce Platform](#-e-commerce-platform)
+  - [User Management](#-user-management)
+  - [Advanced Features](#-advanced-features)
+  - [Technical Features](#️-technical-features)
+  - [Additional Innovative Features](#-additional-innovative-features)
+- [🧪 Creative Authentication Explained](#-creative-authentication-explained)
+  - [Spirited Sign-In](#-spirited-sign-in)
+- [📁 Folder Structure](#-folder-structure)
+- [🎥 Demo](#-demo)
+- [🎯 Conclusion](#-conclusion)
+  - [Project Highlights](#-project-highlights)
+  - [Challenges Faced & Solutions](#-challenges-faced--solutions)
+  - [Future Improvements & Features](#-future-improvements--features)
+  - [Lessons Learned](#-lessons-learned)
+- [🤝 Contributing](#-contributing)
+- [📜 License](#-license)
+
+</details>
 
 ---
 ## 🛠️ Built With
